@@ -70,4 +70,4 @@ Python Jupyter Notebook with below libraries have been used in the case study:
 ## Acknowledgements
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Harshitsolanki] - feel free to contact me!
